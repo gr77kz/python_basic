@@ -1,2 +1,5 @@
-i = [i for i in range(1, 100)]
-print(i)
+i = 10
+
+while i > 0:
+    print('hello')
+    i -= 1
