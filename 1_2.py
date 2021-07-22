@@ -14,10 +14,4 @@ for ind, val in enumerate(coubes_list):
         all_sum += coubes_list[ind]
     if sum_digits % 7 == 0:
         all_sum += coubes_list[ind]
-
 print(all_sum)
-
-
-
-
-
